@@ -1,9 +1,9 @@
-#include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 
 /**
- * main - Determines if number is postitve, negative or zero
+ * main - Determines if number is postitve, negative or zero.
  *
  * Return: Always 0 (Success)
  */
